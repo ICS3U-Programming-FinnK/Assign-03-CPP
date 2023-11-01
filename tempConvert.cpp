@@ -1,3 +1,7 @@
+// Created by: Finn Kitor
+// Created on : November 1st, 2023
+// this program converts from degrees Celsius to Fahrenheit and Kelvin.
+
 #include <iostream>
 
 int main() {
